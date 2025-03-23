@@ -91,7 +91,7 @@ Created with 💙 by **Fusion Softworks** (Mark & Kito)
 
 ## 📆 Download
 
-🔎 Get the latest stable build from the [Releases Page](https://github.com/FusionHolder/FusionClient/releases/latest/download/fusionclient.zip)
+🔎 Get the latest stable build from the [Releases Page](https://github.com/FusionHolder/Fusion-Client/releases/latest/download/fusionclient.zip)
 
 Extract the `.zip`, run the single `.exe`, and enjoy!  
 No dependencies or installers required thanks to embedded DLLs (Costura.Fody).
