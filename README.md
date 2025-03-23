@@ -1,4 +1,4 @@
-# 💥 Fusion Client
+# 🌌 Fusion Client
 
 **The ultimate go-to multitool for modifying and managing the _SchoolBoy Runaway_ game with ease.**  
 Created with 💙 by **Fusion Softworks** (Mark & Kito)
